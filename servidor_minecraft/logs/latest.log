@@ -1,0 +1,549 @@
+[19Dec2024 04:09:50.026] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[19Dec2024 04:09:50.034] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[19Dec2024 04:10:00.185] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MC3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[19Dec2024 04:10:01.157] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MC3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.3.0/fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
+[19Dec2024 04:10:01.158] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MC3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.3.0/javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[19Dec2024 04:10:01.159] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MC3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.3.0/lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[19Dec2024 04:10:01.160] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MC3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.3.0/mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[19Dec2024 04:10:01.514] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[19Dec2024 04:10:04.724] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19Dec2024 04:10:04.791] [main/ERROR] [mixin/]: Mixin config rottencreatures-common.mixins.json does not specify "minVersion" property
+[19Dec2024 04:10:04.793] [main/ERROR] [mixin/]: Mixin config rottencreatures.mixins.json does not specify "minVersion" property
+[19Dec2024 04:10:04.867] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[19Dec2024 04:10:04.870] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[19Dec2024 04:10:05.412] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Dec2024 04:10:05.417] [main/WARN] [mixin/]: Reference map 'rottencreatures-forge-refmap.json' for rottencreatures.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Dec2024 04:10:06.917] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[19Dec2024 04:10:06.918] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[19Dec2024 04:10:06.919] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[19Dec2024 04:10:06.922] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[19Dec2024 04:10:06.922] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[19Dec2024 04:10:06.923] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[19Dec2024 04:10:06.927] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[19Dec2024 04:10:06.928] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[19Dec2024 04:10:13.460] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[19Dec2024 04:10:16.085] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod easyanvils
+[19Dec2024 04:10:16.274] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@559af296 on thread Thread[#34,modloading-worker-0,5,main]
+[19Dec2024 04:10:16.274] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:92) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.3.jar%2351!/:6.0.3+6.0.3+master.039e4ea9]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.lang.ClassLoader.defineClass0(Native Method) ~[?:?]
+	at java.lang.System$2.defineClass(System.java:2394) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClass(MethodHandles.java:2505) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.generateInnerClass(InnerClassLambdaMetafactory.java:361) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.spinInnerClass(InnerClassLambdaMetafactory.java:286) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.buildCallSite(InnerClassLambdaMetafactory.java:221) ~[?:?]
+	at java.lang.invoke.LambdaMetafactory.metafactory(LambdaMetafactory.java:341) ~[?:?]
+	at java.lang.invoke.BootstrapMethodInvoker.invoke(BootstrapMethodInvoker.java:134) ~[?:?]
+	at java.lang.invoke.CallSite.makeSite(CallSite.java:316) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:274) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:264) ~[?:?]
+	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23192!/:15]
+	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:26) ~[obscure_api-15.jar%23192!/:15]
+	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:42) ~[obscure_api-15.jar%23192!/:15]
+	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:68) ~[obscure_api-15.jar%23192!/:15]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:68) ~[javafmllanguage-1.19.2-43.3.0.jar%23211!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:121) ~[fmlcore-1.19.2-43.3.0.jar%23210!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+[19Dec2024 04:10:16.280] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[19Dec2024 04:10:16.593] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[19Dec2024 04:10:16.777] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
+[19Dec2024 04:10:16.778] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
+[19Dec2024 04:10:16.995] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[19Dec2024 04:10:16.996] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[19Dec2024 04:10:17.844] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod magnumtorch
+[19Dec2024 04:10:18.962] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[19Dec2024 04:10:19.059] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod puzzleslib
+[19Dec2024 04:10:19.062] [modloading-worker-0/INFO] [Bo's Player Companions/]: Thanks for using Bo's Player Companions (https://www.curseforge.com/minecraft/mc-mods/player-companions). I hope you enjoy the mod. :)
+[19Dec2024 04:10:19.065] [modloading-worker-0/INFO] [Bo's Player Companions/]: 👾 Register Player Companions Menu Types ...
+[19Dec2024 04:10:19.068] [modloading-worker-0/INFO] [Bo's Player Companions/]: 👾 Register Player Companions Entity Types ...
+[19Dec2024 04:10:19.082] [modloading-worker-0/INFO] [Bo's Player Companions/]: 👾 Register Player Companions Items ...
+[19Dec2024 04:10:19.134] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod enchantinginfuser
+[19Dec2024 04:10:19.168] [modloading-worker-0/INFO] [Bo's Player Companions/]: 👾 Register Player Companions Blocks ...
+[19Dec2024 04:10:19.170] [modloading-worker-0/INFO] [Bo's Player Companions/]: 👾 Register Player Companions Sound Events ...
+[19Dec2024 04:10:19.175] [modloading-worker-0/INFO] [Bo's Player Companions/]: 👾 Register Player Companions Biome Modifier Serializers ...
+[19Dec2024 04:10:19.230] [modloading-worker-0/INFO] [Bo's Player Companions/]: 👾 Register Player Companions Common config ...
+[19Dec2024 04:10:19.340] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id biomemakeover:cl_complete_quest
+[19Dec2024 04:10:19.341] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id biomemakeover:update_dir_data
+[19Dec2024 04:10:25.385] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[19Dec2024 04:10:26.333] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/MC3/servidor_minecraft/config/rottencreatures-common.toml is not correct. Correcting
+[19Dec2024 04:10:26.336] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mob Spawns.Immortal Chance was corrected from 0.025 to its default, 0.025. 
+[19Dec2024 04:10:26.338] [Thread-0/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/MC3/servidor_minecraft/config/rottencreatures-common.toml is not correct. Correcting
+[19Dec2024 04:10:26.350] [Thread-0/INFO] [Bo's Player Companions/]: Reload common config file player_companions-common.toml ...
+[19Dec2024 04:10:26.425] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[19Dec2024 04:10:26.426] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[19Dec2024 04:10:26.427] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[19Dec2024 04:10:26.575] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[19Dec2024 04:10:26.713] [modloading-worker-0/INFO] [Bo's Player Companions/]: 👾 Register Player Companions Network Handler for net.minecraftforge.network.simple.SimpleChannel@301be422 with version 4 ...
+[19Dec2024 04:10:26.716] [modloading-worker-0/INFO] [Bo's Player Companions/]: 👾 Register Player Companions Spawn Placements ...
+[19Dec2024 04:10:26.792] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[19Dec2024 04:10:27.106] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[19Dec2024 04:10:27.107] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[19Dec2024 04:10:27.107] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[19Dec2024 04:10:27.108] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[19Dec2024 04:10:27.113] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: OUTDATED Current: 1.19.2 Target: 1.19.5
+[19Dec2024 04:10:27.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[19Dec2024 04:10:27.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 4.0.11 Target: null
+[19Dec2024 04:10:27.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[19Dec2024 04:10:27.145] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.3.0.jar%23210!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.3.0.jar%23210!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	... 6 more
+[19Dec2024 04:10:27.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[19Dec2024 04:10:27.202] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 8.2.40 Target: null
+[19Dec2024 04:10:27.203] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[19Dec2024 04:10:27.216] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: OUTDATED Current: 1.2.33 Target: 1.2.41
+[19Dec2024 04:10:27.217] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Dec2024 04:10:27.246] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[19Dec2024 04:10:27.246] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[19Dec2024 04:10:27.248] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[19Dec2024 04:10:27.248] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[19Dec2024 04:10:27.263] [modloading-worker-0/INFO] [com.choicetheorem.ctov.ctov/]: Got IMC []
+[19Dec2024 04:10:27.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.3.0 Target: 43.4.0
+[19Dec2024 04:10:27.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
+[19Dec2024 04:10:27.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: AHEAD Current: 3.2.6c Target: null
+[19Dec2024 04:10:27.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[19Dec2024 04:10:27.657] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.3.0.jar%23210!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.3.0.jar%23210!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	... 6 more
+[19Dec2024 04:10:27.658] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [magnumtorch] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/magnumtorch.json
+[19Dec2024 04:10:27.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [magnumtorch] Found status: UP_TO_DATE Current: 4.2.3 Target: null
+[19Dec2024 04:10:27.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[19Dec2024 04:10:27.833] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
+[19Dec2024 04:10:27.834] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[19Dec2024 04:10:27.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 4.4.3 Target: null
+[19Dec2024 04:10:27.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[19Dec2024 04:10:27.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 4.2.2 Target: null
+[19Dec2024 04:10:27.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[19Dec2024 04:10:27.869] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.3.0.jar%23210!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.3.0.jar%23210!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	... 6 more
+[19Dec2024 04:10:32.365] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19Dec2024 04:10:36.157] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MC3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23209!/assets/.mcassetsroot' uses unexpected schema
+[19Dec2024 04:10:36.158] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MC3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23209!/data/.mcassetsroot' uses unexpected schema
+[19Dec2024 04:10:38.858] [main/INFO] [Bo's Player Companions/]: Registering player_companions commands ...
+[19Dec2024 04:10:38.882] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[19Dec2024 04:10:38.918] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:village (from unstructured-0.5.6-FORGE.jar)] as it is missing following references: minecraft:village (from unstructured-0.5.6-FORGE.jar)
+[19Dec2024 04:10:40.074] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/emerald_ore_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.095] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/dark_oracle_brick_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.103] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/polished_nebulite_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.111] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/warped_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.121] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/twisted_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.122] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/craterstone_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.122] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/oracle_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.123] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/moonshale_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.125] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/iron_ore_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.125] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/dark_oracle_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.126] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/nebulite_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.131] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/cerebral_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.133] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[19Dec2024 04:10:40.133] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/coal_ore_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.139] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/dark_oak_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.140] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[19Dec2024 04:10:40.141] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/crimson_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.144] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/oracle_tile_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.146] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/polished_nebulite_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.147] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/lapis_ore_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.147] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/mangrove_board_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.149] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/cerebral_tile_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.149] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/hazard_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.150] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/acacia_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.156] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/oak_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.162] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/cerebral_tile_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.165] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/diamond_ore_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.166] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/mangrove_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.166] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/tread_plate_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.167] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/redstone_ore_brick_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.169] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/oracle_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.169] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/redstone_ore_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.170] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/dark_oak_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.171] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/spruce_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.176] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/acacia_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.178] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/moonshale_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.185] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/warped_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.186] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/twisted_board_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.187] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/oak_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.188] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/oracle_brick_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.189] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/redstone_ore_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.190] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[19Dec2024 04:10:40.191] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/cerebral_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.192] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/birch_board_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.196] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/oracle_tile_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.200] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/dark_oak_board_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.202] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/tread_plate_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.203] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/spruce_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.204] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[19Dec2024 04:10:40.205] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/oracle_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.205] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/emerald_ore_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.206] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/nebulite_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.206] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/moonshale_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.208] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/birch_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.210] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/moonshale_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.211] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/oracle_tile_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.213] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/polished_nebulite_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.214] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/craterstone_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.215] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/nebulite_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.216] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/oracle_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.217] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/crimson_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.217] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/hazard_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.219] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/crimson_board_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.223] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/jungle_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.225] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/cerebral_tile_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.227] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/gold_ore_brick_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.230] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/coal_ore_brick_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.233] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/twisted_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.234] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/lapis_ore_brick_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.236] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/dark_oracle_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.236] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/jungle_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.237] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/mangrove_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.238] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/acacia_board_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.239] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe taxov:x_trim_smithing_template_smithing_trim
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing_trim'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.3.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[19Dec2024 04:10:40.244] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[19Dec2024 04:10:40.249] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/moonshale_brick_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.252] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/moonshale_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.253] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/diamond_ore_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.255] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/tread_plate_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.257] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/craterstone_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.257] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/gold_ore_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.258] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/iron_ore_brick_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.259] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/spruce_board_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.260] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/oracle_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.261] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/warped_board_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.261] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/diamond_ore_brick_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.268] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/emerald_ore_brick_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.269] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/gold_ore_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.270] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/cerebral_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.276] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[19Dec2024 04:10:40.277] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[19Dec2024 04:10:40.278] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/lapis_ore_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.278] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/iron_ore_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.278] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/jungle_board_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.279] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/birch_board_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.280] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/oak_board_vertical_slab_revert as it's serializer returned null
+[19Dec2024 04:10:40.280] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/coal_ore_brick_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.281] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe player_companions:player_companions_book
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchouli:shapeless_book_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.3.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[19Dec2024 04:10:40.283] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe architects_palette:vslabs/stonecutting/hazard_vertical_slab as it's serializer returned null
+[19Dec2024 04:10:40.283] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[19Dec2024 04:10:40.287] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
+[19Dec2024 04:10:40.507] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table player_companions:books/grant_player_companions_book
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.3.0-universal.jar%23214!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.3.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[19Dec2024 04:10:40.819] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23209!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[19Dec2024 04:10:40.991] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3786 advancements
+[19Dec2024 04:10:40.996] [main/INFO] [Dungeon Crawl/]: Loading data...
+[19Dec2024 04:10:41.242] [main/INFO] [Dungeon Crawl/]: Done.
+[19Dec2024 04:10:41.250] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[19Dec2024 04:10:41.287] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 114 dynamic modifiers and 0 modifier redirects in 36.303738 ms
+[19Dec2024 04:10:41.294] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 38 modifier tags for 134 modifiers in 7.265429 ms
+[19Dec2024 04:10:41.295] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 49 enchantment to modifier mappings in 0.635163 ms
+[19Dec2024 04:10:41.298] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 24 dynamic modifiers in 2.125588 ms
+[19Dec2024 04:10:41.300] [main/INFO] [tconstruct/]: Loaded 49 spilling fluids in 1.971722 ms
+[19Dec2024 04:10:41.311] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 47 materials in 7.445353 ms
+[19Dec2024 04:10:41.312] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 19 materials in 1.230702 ms
+[19Dec2024 04:10:41.323] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 347 stats loaded for 59 materials in 11.278924 ms
+[19Dec2024 04:10:41.342] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 176 traits loaded for 59 materials in 18.181213 ms
+[19Dec2024 04:10:41.355] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 34 tool definitions in 12.884101 ms
+[19Dec2024 04:10:41.361] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 5.120474 ms
+[19Dec2024 04:10:44.518] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[19Dec2024 04:10:44.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[19Dec2024 04:10:44.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19Dec2024 04:10:44.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19Dec2024 04:10:44.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19Dec2024 04:10:45.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19Dec2024 04:10:45.132] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19Dec2024 04:10:45.242] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19Dec2024 04:10:45.243] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19Dec2024 04:10:45.243] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19Dec2024 04:10:45.244] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19Dec2024 04:10:45.268] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[19Dec2024 04:10:45.269] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[19Dec2024 04:10:45.270] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[19Dec2024 04:10:45.277] [Server thread/INFO] [Puzzles Lib/]: Loading server config for magnumtorch
+[19Dec2024 04:10:45.278] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for magnumtorch
+[19Dec2024 04:10:45.280] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for magnumtorch
+[19Dec2024 04:10:45.289] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[19Dec2024 04:10:45.290] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[19Dec2024 04:10:45.291] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[19Dec2024 04:10:45.316] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.rooster (CREATURE) with weight 6, min 1 and max 2 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:plains]] (excluding DirectSet[[Reference{ResourceKey[minecraft:worldgen/biome / minecraft:flower_forest]=net.minecraft.world.level.biome.Biome@12536123}]]).
+[19Dec2024 04:10:45.319] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.firefly (CREATURE) with weight 5, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:plains]] (excluding DirectSet[[Reference{ResourceKey[minecraft:worldgen/biome / minecraft:flower_forest]=net.minecraft.world.level.biome.Biome@12536123}]]).
+[19Dec2024 04:10:45.321] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.pig (CREATURE) with weight 6, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:plains]] (excluding DirectSet[[Reference{ResourceKey[minecraft:worldgen/biome / minecraft:flower_forest]=net.minecraft.world.level.biome.Biome@12536123}]]).
+[19Dec2024 04:10:45.336] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.lizard (CREATURE) with weight 6, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:desert]].
+[19Dec2024 04:10:45.340] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.small_slime (CREATURE) with weight 6, min 1 and max 2 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:swamp]].
+[19Dec2024 04:10:45.342] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.firefly (CREATURE) with weight 5, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:swamp]] (excluding DirectSet[[Reference{ResourceKey[minecraft:worldgen/biome / minecraft:flower_forest]=net.minecraft.world.level.biome.Biome@12536123}]]).
+[19Dec2024 04:10:45.343] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.lizard (CREATURE) with weight 6, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:swamp]].
+[19Dec2024 04:10:45.353] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.fairy (CREATURE) with weight 16, min 1 and max 2 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:flower_forest]].
+[19Dec2024 04:10:45.366] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.dobutsu (CREATURE) with weight 6, min 1 and max 2 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:dark_forest]].
+[19Dec2024 04:10:45.379] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.welsh_corgi (CREATURE) with weight 6, min 1 and max 2 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:taiga]].
+[19Dec2024 04:10:45.397] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.small_slime (CREATURE) with weight 6, min 1 and max 2 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:jungle]].
+[19Dec2024 04:10:45.398] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.raptor (CREATURE) with weight 6, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:jungle]].
+[19Dec2024 04:10:45.398] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.lizard (CREATURE) with weight 6, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:jungle]].
+[19Dec2024 04:10:45.402] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.lizard (CREATURE) with weight 6, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:badlands]].
+[19Dec2024 04:10:45.407] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.samurai (CREATURE) with weight 6, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:meadow]].
+[19Dec2024 04:10:45.411] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.samurai (CREATURE) with weight 6, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:snowy_slopes]].
+[19Dec2024 04:10:45.413] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.samurai (CREATURE) with weight 6, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:frozen_peaks]].
+[19Dec2024 04:10:45.415] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.samurai (CREATURE) with weight 6, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:jagged_peaks]].
+[19Dec2024 04:10:45.416] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.samurai (CREATURE) with weight 6, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:stony_peaks]].
+[19Dec2024 04:10:45.420] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.snail (CREATURE) with weight 6, min 1 and max 2 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:beach]].
+[19Dec2024 04:10:45.434] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.fairy (CREATURE) with weight 16, min 1 and max 2 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:lush_caves]].
+[19Dec2024 04:10:45.437] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.small_ghast (CREATURE) with weight 10, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:nether_wastes]].
+[19Dec2024 04:10:45.438] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.small_ghast (CREATURE) with weight 10, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:warped_forest]].
+[19Dec2024 04:10:45.439] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.small_ghast (CREATURE) with weight 10, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:crimson_forest]].
+[19Dec2024 04:10:45.440] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.small_ghast (CREATURE) with weight 10, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:soul_sand_valley]].
+[19Dec2024 04:10:45.441] [Server thread/INFO] [Bo's Player Companions/]: 👾 Enable spawn for entity.player_companions.small_ghast (CREATURE) with weight 10, min 1 and max 1 in Optional[ResourceKey[minecraft:worldgen/biome / minecraft:basalt_deltas]].
+[19Dec2024 04:10:45.470] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
+[19Dec2024 04:10:45.477] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
+[19Dec2024 04:10:45.488] [Server thread/INFO] [Bo's Player Companions/]: 👾 Supporter will automatically buff in a 8 block radius.
+[19Dec2024 04:10:45.488] [Server thread/INFO] [Bo's Player Companions/]: 👾 Healer will automatically heal between 2 - 10 hp in a 8 block radius.
+[19Dec2024 04:10:45.489] [Server thread/INFO] [Bo's Player Companions/]: 👾 Collector will automatically collect items in a 3 block radius.
+[19Dec2024 04:10:45.489] [Server thread/INFO] [Bo's Player Companions/]: Loading about 17 female NPC names ...
+[19Dec2024 04:10:45.489] [Server thread/INFO] [Bo's Player Companions/]: Loading about 17 male NPC names ...
+[19Dec2024 04:10:45.490] [Server thread/INFO] [Bo's Player Companions/]: Loading about 2 misc NPC names ...
+[19Dec2024 04:10:45.490] [Server thread/INFO] [Bo's Player Companions/]: Loading about 53 female companion names ...
+[19Dec2024 04:10:45.490] [Server thread/INFO] [Bo's Player Companions/]: Loading about 47 male companion names ...
+[19Dec2024 04:10:45.491] [Server thread/INFO] [Bo's Player Companions/]: Loading about 35 misc companion names ...
+[19Dec2024 04:10:45.491] [Server thread/INFO] [Bo's Player Companions/]: The max base health for player companions is set to 20.
+[19Dec2024 04:10:45.491] [Server thread/INFO] [Bo's Player Companions/]: The max base attack damage for player companions is set to 5.
+[19Dec2024 04:10:45.491] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions will be respawn on death with a 1200 secs delay.
+[19Dec2024 04:10:45.492] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions ignore entities from the same owner as attack target!
+[19Dec2024 04:10:45.492] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions friendly fire is disabled.
+[19Dec2024 04:10:45.493] [Server thread/INFO] [Bo's Player Companions/]: Enable automatic data backups every 1440 minutes, next backup will run at 1734667845 ...
+[19Dec2024 04:10:45.493] [Server thread/INFO] [Bo's Player Companions/]: 👾 Register Player Companions Player Companion Data Manager ...
+[19Dec2024 04:10:45.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19Dec2024 04:10:45.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Dec2024 04:10:51.995] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:52.053] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:52.355] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:52.387] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:52.419] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:52.447] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:52.482] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:52.499] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:52.560] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:52.571] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:52.608] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:52.659] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:52.714] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:52.732] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:52.847] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:53.488] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 04:10:53.841] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[19Dec2024 04:10:54.341] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
+[19Dec2024 04:10:54.518] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions preparing data for net.minecraft.server.dedicated.DedicatedServer@72fdcc94
+[19Dec2024 04:10:54.521] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions creating Backup 2024-12-19_04.10.54-player_companions_data.nbt ...
+[19Dec2024 04:10:54.524] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saved backup at /workspaces/MC3/servidor_minecraft/./world/./player_companions/2024-12-19_04.10.54-player_companions_data.nbt
+[19Dec2024 04:10:54.525] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions next planned backup is scheduled for 1734667854 in about 1440 min.
+[19Dec2024 04:10:54.526] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions loading data ...
+[19Dec2024 04:10:54.831] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8990 ms
+[19Dec2024 04:10:54.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.575s)! For help, type "help"
+[19Dec2024 04:10:54.909] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19Dec2024 04:10:54.925] [Server thread/INFO] [Bo's Player Companions/]: 👾 Register Player Companions Server Starting setup ...
+[19Dec2024 04:10:54.926] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[19Dec2024 04:10:54.938] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[19Dec2024 04:10:54.938] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[19Dec2024 04:10:54.967] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[19Dec2024 04:10:54.968] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[19Dec2024 04:10:54.968] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[19Dec2024 04:10:54.969] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 27
+[19Dec2024 04:10:54.971] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/MC3/servidor_minecraft/./config/infernalmobs.cfg
+[19Dec2024 04:10:54.971] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[19Dec2024 04:10:55.043] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[19Dec2024 04:10:55.043] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[19Dec2024 04:10:55.044] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[19Dec2024 04:10:55.044] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[19Dec2024 04:11:31.931] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10938bef
+[19Dec2024 04:11:31.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Divideivid[/100.97.62.57:53040] logged in with entity id 560 at (-3673.954625898113, 72.0, 1078.5687662836474)
+[19Dec2024 04:11:32.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid joined the game
+[19Dec2024 04:11:58.022] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@402888dc
+[19Dec2024 04:11:58.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xjulxndxx[/100.115.130.57:53944] logged in with entity id 687 at (-3668.303885265384, 63.0, 1079.2319751962048)
+[19Dec2024 04:11:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx joined the game
+[19Dec2024 04:15:28.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx has made the advancement [Explore the Deep Without a Care]
+[19Dec2024 04:15:55.136] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 04:20:55.098] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 04:25:55.081] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 04:28:28.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3620, y=64, z=1138} BlockPos{x=-3622, y=64, z=1139}
+[19Dec2024 04:28:28.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3620, y=64, z=1138} BlockPos{x=-3622, y=64, z=1139}
+[19Dec2024 04:28:28.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3620, y=64, z=1138} BlockPos{x=-3622, y=64, z=1139}
+[19Dec2024 04:28:28.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3620, y=64, z=1138} BlockPos{x=-3622, y=64, z=1139}
+[19Dec2024 04:28:28.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3620, y=64, z=1138} BlockPos{x=-3622, y=64, z=1139}
+[19Dec2024 04:29:03.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3631, y=64, z=1140} BlockPos{x=-3631, y=63, z=1138}
+[19Dec2024 04:29:03.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3631, y=64, z=1140} BlockPos{x=-3631, y=63, z=1138}
+[19Dec2024 04:29:03.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3631, y=64, z=1140} BlockPos{x=-3631, y=63, z=1138}
+[19Dec2024 04:29:03.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3631, y=64, z=1140} BlockPos{x=-3631, y=63, z=1138}
