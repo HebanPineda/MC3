@@ -1993,6 +1993,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/glass/vanilla/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-19 05:19:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-11-20 19:54:17 +0000"
@@ -3676,6 +3682,7 @@
       "minecraft:spider": "2024-11-20 20:25:12 +0000",
       "minecraft:piglin_brute": "2024-12-11 06:13:11 +0000",
       "minecraft:creeper": "2024-12-06 08:33:54 +0000",
+      "minecraft:wither": "2024-12-19 05:19:20 +0000",
       "minecraft:slime": "2024-11-30 18:15:46 +0000",
       "minecraft:zombified_piglin": "2024-12-11 06:28:39 +0000",
       "minecraft:witch": "2024-12-07 06:57:53 +0000",
@@ -4529,6 +4536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-19 04:55:32 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/green_sleeping_bag": {
     "criteria": {
       "has_green_wool": "2024-12-07 08:16:03 +0000"
@@ -4676,6 +4689,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-11-30 20:23:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2024-12-19 05:19:21 +0000"
     },
     "done": true
   },
@@ -4832,6 +4851,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-11-20 20:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-19 05:15:58 +0000"
     },
     "done": true
   },
@@ -5071,6 +5096,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-11-20 21:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-19 05:19:21 +0000"
     },
     "done": true
   },
@@ -5464,6 +5495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-19 04:55:32 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2024-11-20 19:49:36 +0000"
@@ -5521,6 +5558,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-07 01:05:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/punji": {
+    "criteria": {
+      "has_item": "2024-12-19 04:55:32 +0000"
     },
     "done": true
   },

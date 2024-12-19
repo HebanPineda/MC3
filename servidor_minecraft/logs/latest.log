@@ -552,3 +552,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 04:40:55.079] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
 [19Dec2024 04:45:55.072] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
 [19Dec2024 04:50:55.090] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 04:55:55.076] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 05:00:55.088] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 05:05:55.069] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 05:10:45.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3674.500000, 68.500000, 1077.500000]
+[19Dec2024 05:10:55.074] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 05:11:41.081] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14390, l='ServerLevel[world]', x=-3644.96, y=-256.00, z=1102.56] died, message: 'Villager fell out of the world'
+[19Dec2024 05:12:08.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved wrongly! 0.28137578388555085
+[19Dec2024 05:14:38.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4305, y=34, z=440} BlockPos{x=-4304, y=34, z=440}
+[19Dec2024 05:14:38.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4304, y=33, z=441} BlockPos{x=-4304, y=34, z=440}
+[19Dec2024 05:14:58.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[19Dec2024 05:15:55.078] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 05:15:58.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx has made the advancement [Withering Heights]
+[19Dec2024 05:15:58.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid has made the advancement [Withering Heights]
+[19Dec2024 05:19:17.552] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Divideivid with unique ID eca14f76-2a56-4679-9add-87e1e9911837
+[19Dec2024 05:19:17.561] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -4305 Y: 31 Z: 442
+[19Dec2024 05:19:17.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid withered away whilst fighting Wither
+[19Dec2024 05:19:21.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -4302.500000, 30.500000, 440.500000]
+[19Dec2024 05:20:14.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3671.500000, 72.500000, 1079.500000]
+[19Dec2024 05:20:55.116] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 05:22:08.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3674.500000, 68.500000, 1077.500000]
