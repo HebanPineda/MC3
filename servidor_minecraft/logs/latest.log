@@ -653,3 +653,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 06:10:12.757] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
 [19Dec2024 06:12:00.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
 [19Dec2024 06:12:17.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
+[19Dec2024 06:16:38.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[19Dec2024 06:17:55.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3609.500000, 7.500000, 1050.500000]
+[19Dec2024 06:18:10.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported xjulxndxx to Divideivid]
+[19Dec2024 06:18:19.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported xjulxndxx to Divideivid]
+[19Dec2024 06:18:22.964] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for xjulxndxx with unique ID 164aa545-8b03-4398-8f4f-5a1aa810d3e7
+[19Dec2024 06:18:22.965] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2281 Y: -5 Z: 1761
+[19Dec2024 06:18:22.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx was clamped to death by Pinch Beetle
+[19Dec2024 06:18:45.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[19Dec2024 06:18:51.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -2282.500000, -5.500000, 1762.500000]
+[19Dec2024 06:18:51.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 2.3819143929636084,0.043540827127813486,9.872932571344109
+[19Dec2024 06:18:51.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 2.6264782350822315,0.0459336612880179,10.859845691670216
+[19Dec2024 06:18:51.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 2.8668020776835874,0.04624006180379325,11.826440486936463
+[19Dec2024 06:18:51.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 3.102883474970895,0.043009156190287,12.773152927361252
+[19Dec2024 06:18:51.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 3.3342985173726447,0.032078018414409826,13.70053110918434
+[19Dec2024 06:19:13.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
+[19Dec2024 06:20:55.079] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 06:21:17.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3609.500000, 7.500000, 1050.500000]
+[19Dec2024 06:21:21.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
+[19Dec2024 06:21:26.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3609.500000, 7.500000, 1050.500000]
+[19Dec2024 06:21:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported xjulxndxx to Divideivid]
+[19Dec2024 06:21:34.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3419.500000, 6.500000, 1232.500000]
+[19Dec2024 06:21:59.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
