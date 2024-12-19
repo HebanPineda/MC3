@@ -581,6 +581,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_sign_wood": {
+    "criteria": {
+      "has_item": "2024-12-19 07:10:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-07 00:13:55 +0000"
@@ -1193,6 +1199,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2024-12-19 07:10:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 20:06:41 +0000"
@@ -1582,9 +1594,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2024-12-19 07:10:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-20 21:56:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2024-12-19 07:10:46 +0000"
     },
     "done": true
   },
@@ -1902,6 +1926,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2024-12-19 07:10:46 +0000",
       "twilight_oak_log": "2024-12-07 06:56:28 +0000",
       "twilight_oak_sapling": "2024-12-07 06:48:38 +0000",
       "canopy_log": "2024-12-07 06:27:20 +0000",
@@ -2482,6 +2507,12 @@
   "architects_palette:recipes/building_blocks/sheet_metal_block": {
     "criteria": {
       "has_iron_ingot": "2024-11-20 19:54:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2024-12-19 07:10:46 +0000"
     },
     "done": true
   },
@@ -3351,6 +3382,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2024-12-19 07:10:46 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/light_gray_sheet": {
     "criteria": {
       "has_sheet": "2024-12-07 08:15:56 +0000"
@@ -4043,6 +4080,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/smelted_cracked_underbrick": {
+    "criteria": {
+      "has_item": "2024-12-19 06:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-11-30 20:54:47 +0000"
@@ -4479,6 +4522,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2024-12-19 06:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-11-20 19:54:17 +0000"
@@ -4755,6 +4804,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-19 07:10:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-11-20 19:58:17 +0000"
@@ -4836,6 +4891,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-11-20 20:08:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2024-12-19 07:10:46 +0000"
     },
     "done": true
   },
@@ -5126,6 +5187,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-12-19 07:00:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-20 21:56:58 +0000"
@@ -5171,6 +5238,12 @@
   "twilightforest:recipes/twilightforest/vanilla_to_tf_lilypad": {
     "criteria": {
       "has_item": "2024-12-07 06:56:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-19 06:52:43 +0000"
     },
     "done": true
   },
@@ -5786,6 +5859,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2024-12-19 07:10:46 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_monasteries": {
     "criteria": {
       "location0": "2024-11-30 21:34:26 +0000"
@@ -6108,6 +6187,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2024-12-11 06:29:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2024-12-19 07:10:46 +0000"
     },
     "done": true
   },

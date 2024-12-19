@@ -687,3 +687,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 06:39:41.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
 [19Dec2024 06:50:04.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx has reached the goal [Carminite Acclimation]
 [19Dec2024 06:50:04.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid has reached the goal [Carminite Acclimation]
+[19Dec2024 06:58:02.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
+[19Dec2024 06:59:50.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3419.500000, 6.500000, 1232.500000]
+[19Dec2024 07:00:06.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3609.500000, 7.500000, 1050.500000]
+[19Dec2024 07:00:27.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx has made the advancement [Rotten to the Core]
+[19Dec2024 07:01:21.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3390.500000, 6.500000, 1478.500000]
+[19Dec2024 07:01:48.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
+[19Dec2024 07:02:40.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3446.500000, 6.500000, 1316.500000]
+[19Dec2024 07:03:14.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3361.500000, 8.500000, 1681.500000]
+[19Dec2024 07:03:15.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 10.649479871015956,2.0125082870932616,0.32496643953936655
+[19Dec2024 07:03:15.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 11.967353847241611,2.226155554348704,0.5966967378444679
+[19Dec2024 07:03:15.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 13.278379617520386,2.4339578592068634,0.9041766755929075
+[19Dec2024 07:03:15.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 14.582379371753632,2.632859882348349,1.2436767994186084
+[19Dec2024 07:03:34.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3303.500000, 7.500000, 1738.500000]
+[19Dec2024 07:05:48.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[19Dec2024 07:08:14.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3789.500000, -15.500000, 983.500000]
+[19Dec2024 07:08:39.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3898.500000, -12.500000, 875.500000]
+[19Dec2024 07:09:44.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]

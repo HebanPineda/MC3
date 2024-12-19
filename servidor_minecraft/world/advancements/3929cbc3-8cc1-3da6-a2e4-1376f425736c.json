@@ -6546,6 +6546,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/charm_of_keeping_3": {
+    "criteria": {
+      "has_item": "2024-12-19 07:06:34 +0000"
+    },
+    "done": true
+  },
   "player_companions:recipes/tame_bone_from_bone": {
     "criteria": {
       "has_bone": "2024-11-20 23:23:34 +0000"
