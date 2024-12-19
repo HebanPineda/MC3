@@ -1225,9 +1225,10 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
+      "all_knights": "2024-12-19 06:50:04 +0000",
       "previous_progression": "2024-12-19 06:24:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
@@ -3566,6 +3567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-19 06:50:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-11-20 20:01:56 +0000"
@@ -5658,6 +5665,12 @@
       "has_gold_ingot": "2024-11-30 20:06:41 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2024-12-19 06:50:04 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
