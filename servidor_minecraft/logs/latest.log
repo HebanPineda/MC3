@@ -683,3 +683,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 06:29:12.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx was frozen to death by Upper Goblin Knight
 [19Dec2024 06:29:26.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
 [19Dec2024 06:30:55.085] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 06:35:22.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported xjulxndxx to Divideivid]
+[19Dec2024 06:39:41.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
