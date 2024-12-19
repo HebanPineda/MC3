@@ -140,6 +140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-12-19 05:28:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-11-20 20:26:39 +0000"
@@ -1400,6 +1406,12 @@
   "twilightforest:recipes/twilightforest/food/smelted_venison": {
     "criteria": {
       "has_food": "2024-12-07 07:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-19 05:28:48 +0000"
     },
     "done": true
   },
@@ -5985,6 +5997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-19 05:28:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dripstone_corner_trim": {
     "criteria": {
       "has_corner_trim": "2024-12-04 05:30:59 +0000"
@@ -6648,6 +6666,12 @@
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2024-12-12 08:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2024-12-19 05:28:48 +0000"
     },
     "done": true
   },
