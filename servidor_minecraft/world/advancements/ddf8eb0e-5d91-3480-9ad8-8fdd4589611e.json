@@ -1690,6 +1690,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2024-12-19 07:13:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-11-20 19:54:17 +0000"
@@ -2877,6 +2883,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2024-12-19 07:17:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_corner_trim": "2024-12-06 05:08:23 +0000"
@@ -3571,6 +3583,12 @@
   "handcrafted:recipes/misc/green_sheet": {
     "criteria": {
       "has_sheet": "2024-12-07 08:16:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2024-12-19 07:17:10 +0000"
     },
     "done": true
   },
@@ -5313,6 +5331,12 @@
     },
     "done": true
   },
+  "twilightforest:maze_map": {
+    "criteria": {
+      "maze_map": "2024-12-19 07:16:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-12 05:31:54 +0000"
@@ -6344,6 +6368,12 @@
   "securitycraft:recipes/securitycraft/secret_sign_item": {
     "criteria": {
       "has_sign": "2024-12-06 07:04:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2024-12-19 07:17:10 +0000"
     },
     "done": true
   },

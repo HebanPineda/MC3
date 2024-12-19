@@ -704,3 +704,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 07:08:14.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3789.500000, -15.500000, 983.500000]
 [19Dec2024 07:08:39.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3898.500000, -12.500000, 875.500000]
 [19Dec2024 07:09:44.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
+[19Dec2024 07:16:08.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid has reached the goal [And Now, to Find the Exit]
+[19Dec2024 07:16:14.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx has reached the goal [And Now, to Find the Exit]

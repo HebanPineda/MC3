@@ -2365,6 +2365,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/ore_map": {
+    "criteria": {
+      "has_item": "2024-12-19 07:16:04 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/skeleton": {
     "criteria": {
       "has_arrow": "2024-11-30 17:42:53 +0000"
@@ -3267,6 +3273,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2024-12-19 07:12:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_corner_trim": "2024-11-20 21:48:29 +0000"
@@ -3451,6 +3463,12 @@
   "travelersbackpack:recipes/travelersbackpack/light_gray_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2024-12-07 00:56:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2024-12-19 07:13:02 +0000"
     },
     "done": true
   },
@@ -4045,6 +4063,12 @@
   "securitycraft:recipes/securitycraft/portable_radar": {
     "criteria": {
       "has_redstone": "2024-11-30 18:30:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2024-12-19 07:12:34 +0000"
     },
     "done": true
   },
@@ -6012,6 +6036,12 @@
     },
     "done": true
   },
+  "twilightforest:maze_map": {
+    "criteria": {
+      "maze_map": "2024-12-19 07:16:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-04 05:19:03 +0000"
@@ -7169,6 +7199,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-11-20 20:54:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2024-12-19 07:12:34 +0000"
     },
     "done": true
   },
