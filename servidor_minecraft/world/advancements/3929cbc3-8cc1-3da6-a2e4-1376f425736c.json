@@ -960,6 +960,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/maze_stone/mossy_mazestone": {
+    "criteria": {
+      "has_item": "2024-12-19 07:30:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-20 23:02:57 +0000"
@@ -1059,6 +1065,12 @@
   "magnumtorch:recipes/decorations/diamond_magnum_torch": {
     "criteria": {
       "has_diamond": "2024-11-30 18:39:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/maze_stone/smelted_maze_stone_cracked": {
+    "criteria": {
+      "has_item": "2024-12-19 07:30:36 +0000"
     },
     "done": true
   },

@@ -706,3 +706,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 07:09:44.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
 [19Dec2024 07:16:08.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid has reached the goal [And Now, to Find the Exit]
 [19Dec2024 07:16:14.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx has reached the goal [And Now, to Find the Exit]
+[19Dec2024 07:28:14.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Divideivid moved too quickly! 8.365213761981977,1.4315238452707284,5.42795140345379
+[19Dec2024 07:30:11.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xjulxndxx lost connection: Disconnected
+[19Dec2024 07:30:11.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx left the game
+[19Dec2024 07:30:22.094] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6d6b990a
+[19Dec2024 07:30:22.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xjulxndxx[/100.115.130.57:54457] logged in with entity id 118298 at (-3885.3631844087176, -23.0, 806.5152470506345)
+[19Dec2024 07:30:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx joined the game
+[19Dec2024 07:30:52.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
+[19Dec2024 07:30:55.085] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 07:32:35.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid has reached the goal [Mighty Stroganoff]
+[19Dec2024 07:32:42.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx has reached the goal [Mighty Stroganoff]
+[19Dec2024 07:33:43.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3858.500000, -22.500000, 855.500000]
+[19Dec2024 07:33:47.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
