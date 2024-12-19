@@ -547,3 +547,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 04:29:03.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3631, y=64, z=1140} BlockPos{x=-3631, y=63, z=1138}
 [19Dec2024 04:29:03.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3631, y=64, z=1140} BlockPos{x=-3631, y=63, z=1138}
 [19Dec2024 04:29:03.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3631, y=64, z=1140} BlockPos{x=-3631, y=63, z=1138}
+[19Dec2024 04:30:55.112] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 04:35:55.080] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
+[19Dec2024 04:40:55.079] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
