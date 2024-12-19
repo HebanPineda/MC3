@@ -490,9 +490,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2024-12-07 07:18:13 +0000"
+      "kill_lich": "2024-12-07 07:18:13 +0000",
+      "trophy_pedestal": "2024-12-19 06:24:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
@@ -1222,6 +1223,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2024-12-19 06:24:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2024-12-07 04:16:36 +0000"
@@ -1339,6 +1346,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-07 00:13:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2024-12-19 06:27:33 +0000"
     },
     "done": true
   },

@@ -675,3 +675,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 06:21:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported xjulxndxx to Divideivid]
 [19Dec2024 06:21:34.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3419.500000, 6.500000, 1232.500000]
 [19Dec2024 06:21:59.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
+[19Dec2024 06:24:21.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[19Dec2024 06:24:39.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid has reached the goal [Trophied Champion]
+[19Dec2024 06:24:39.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx has reached the goal [Trophied Champion]
+[19Dec2024 06:29:12.447] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for xjulxndxx with unique ID 6dbac6f4-83d7-4f6a-973f-d120136b1fe1
+[19Dec2024 06:29:12.448] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -3490 Y: -5 Z: 1306
+[19Dec2024 06:29:12.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx was frozen to death by Upper Goblin Knight
+[19Dec2024 06:29:26.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[19Dec2024 06:30:55.085] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@513d5136
