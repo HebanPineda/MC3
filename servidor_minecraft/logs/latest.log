@@ -1044,3 +1044,72 @@ java.util.ConcurrentModificationException: null
 [12Jan2025 07:20:17.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
 [12Jan2025 07:20:18.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xjulxndxx moved too quickly! 3.1859227242421184,-56.67647087614428,0.3040367885071191
 [12Jan2025 07:20:51.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[12Jan2025 07:24:43.632] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 07:25:05.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Divideivid moved too quickly! 12.384715224275624,0.30810251895414087,-16.582877074201633
+[12Jan2025 07:26:54.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid has reached the goal [Hydra Slayer]
+[12Jan2025 07:26:54.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx has reached the goal [Hydra Slayer]
+[12Jan2025 07:30:04.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3493.500000, 1.500000, 1318.500000]
+[12Jan2025 07:30:04.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 8.897756031026802,2.1861274969859252,-5.911299695948401
+[12Jan2025 07:30:04.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 9.978748984698086,2.4582451175844042,-6.691861093525063
+[12Jan2025 07:30:04.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 11.05501671339789,2.7276755138957682,-7.478602779877519
+[12Jan2025 07:30:04.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 12.12700102306826,3.0034333924159213,-8.270881873381427
+[12Jan2025 07:30:04.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 13.195105486646298,3.283455612682438,-9.068124404927403
+[12Jan2025 07:30:04.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 14.25969813577376,3.567617340477973,-9.869817493346659
+[12Jan2025 07:30:04.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 15.321114001858405,3.853824002791889,-10.675502657822676
+[12Jan2025 07:30:04.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 16.379657785760173,4.1438552466777665,-11.484769742035155
+[12Jan2025 07:30:04.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 17.435606108850607,4.441503644965003,-12.297251769124387
+[12Jan2025 07:30:04.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 18.489210071118123,4.739710453858699,-13.11261995216364
+[12Jan2025 07:30:04.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 19.540697223183543,5.045291294892387,-13.930579857076168
+[12Jan2025 07:30:04.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 20.59027362930874,5.3544747450946275,-14.750867594995725
+[12Jan2025 07:30:04.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 21.63812595127638,5.660892284895091,-15.573246432540827
+[12Jan2025 07:30:04.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 22.665216098287146,5.968529689055096,-16.382366990029368
+[12Jan2025 07:30:04.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 23.670218192423363,6.27140118408375,-17.17677328565651
+[12Jan2025 07:30:04.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 24.653547612585044,6.563091057926108,-17.956420720503502
+[12Jan2025 07:30:04.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 15.602468944904558,4.412931597520213,-12.261090033096934
+[12Jan2025 07:30:04.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 13.472378904163634,3.930878338981927,-11.026764583437966
+[12Jan2025 07:30:04.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 13.447837223332044,3.973799143497857,-11.095764661009412
+[12Jan2025 07:30:04.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 12.491639932713952,3.7422467171362825,-10.522185859251636
+[12Jan2025 07:30:05.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 11.608256565758893,3.5111027988957204,-9.962807686230349
+[12Jan2025 07:30:05.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -13.150388447367732,-3.3851172958065376,8.960589713157788
+[12Jan2025 07:30:05.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -10.948646080081744,-2.8599348463194048,7.637894302863515
+[12Jan2025 07:30:08.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 7.861509808708433,1.8483859087660335,-6.54199145063933
+[12Jan2025 07:30:11.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 7.637756300213368,-0.4969435001557798,-7.325525967124008
+[12Jan2025 07:30:11.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! 8.426319888863873,-0.5811319330443752,-8.082125461368264
+[12Jan2025 07:30:17.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved wrongly! 0.47135304246421583
+[12Jan2025 07:30:26.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3547.500000, 28.500000, 1298.500000]
+[12Jan2025 07:30:49.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[12Jan2025 07:31:14.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -2583.500000, 167.500000, 727.500000]
+[12Jan2025 07:31:25.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -2596.500000, 96.500000, 580.500000]
+[12Jan2025 07:31:35.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -2716.500000, 59.500000, 643.500000]
+[12Jan2025 07:31:39.669] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for xjulxndxx with unique ID 79e1f4e6-c9f1-4cfc-9c1d-0f98a4157aaf
+[12Jan2025 07:31:39.670] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2722 Y: 58 Z: 641
+[12Jan2025 07:31:39.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx walked into some thorns
+[12Jan2025 07:31:42.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported xjulxndxx to Divideivid]
+[12Jan2025 07:31:57.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[12Jan2025 07:32:05.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -2763.500000, 6.500000, 332.500000]
+[12Jan2025 07:32:08.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved wrongly! 0.2929018934901251
+[12Jan2025 07:32:37.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3767.500000, 29.500000, 1376.500000]
+[12Jan2025 07:32:54.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Set own game mode to Creative Mode]
+[12Jan2025 07:33:00.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -2698.500000, 49.500000, 380.500000]
+[12Jan2025 07:34:43.640] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 07:36:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Set the time to 1000]
+[12Jan2025 07:39:53.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -2748.500000, 6.500000, 401.500000]
+[12Jan2025 07:40:41.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3419.500000, 6.500000, 1232.500000]
+[12Jan2025 07:41:17.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[12Jan2025 07:41:35.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3609.500000, 7.500000, 1050.500000]
+[12Jan2025 07:41:41.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]

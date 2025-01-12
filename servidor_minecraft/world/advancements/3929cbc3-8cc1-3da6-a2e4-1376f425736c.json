@@ -1266,6 +1266,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2025-01-12 07:27:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-11-20 21:49:50 +0000"
@@ -1310,6 +1316,7 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
+      "hydra": "2025-01-12 07:26:54 +0000",
       "snow_queen": "2024-12-07 09:08:33 +0000"
     },
     "done": false
@@ -2298,7 +2305,9 @@
       "twilight_oak_log": "2024-12-07 06:28:55 +0000",
       "twilight_oak_wood": "2024-12-07 06:30:27 +0000",
       "twilight_oak_sapling": "2024-12-07 06:30:59 +0000",
+      "encased_towerwood": "2025-01-12 07:38:18 +0000",
       "canopy_log": "2025-01-12 05:01:16 +0000",
+      "towerwood": "2025-01-12 07:37:52 +0000",
       "twilight_oak_leaves": "2025-01-12 04:47:28 +0000",
       "canopy_sapling": "2024-12-07 06:34:02 +0000"
     },
@@ -2325,6 +2334,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-20 20:16:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-01-12 07:27:03 +0000"
     },
     "done": true
   },
@@ -2384,9 +2399,10 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
+      "kill_hydra": "2025-01-12 07:26:54 +0000",
       "stroganoff": "2024-12-19 07:32:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
@@ -3271,6 +3287,7 @@
     "criteria": {
       "meef_stroganoff": "2024-12-19 07:32:35 +0000",
       "maze_wafer": "2024-12-11 04:37:38 +0000",
+      "hydra_chop": "2025-01-12 07:29:11 +0000",
       "cooked_venison": "2024-12-07 07:30:25 +0000"
     },
     "done": false
@@ -3672,6 +3689,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2025-01-12 07:37:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-11-20 23:02:57 +0000"
@@ -4068,6 +4091,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-01-12 07:27:03 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_stairs": {
     "criteria": {
       "has_item": "2024-12-07 03:26:20 +0000"
@@ -4254,6 +4283,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-01-12 07:27:03 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_armor": {
     "criteria": {
       "gobber2_chestplate": "2024-12-12 07:00:15 +0000"
@@ -4299,6 +4334,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-12-07 07:11:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/charm_of_life_2": {
+    "criteria": {
+      "has_item": "2025-01-12 07:31:55 +0000"
     },
     "done": true
   },
@@ -4441,6 +4482,12 @@
   "travelersbackpack:recipes/travelersbackpack/magenta_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2024-12-07 00:56:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/smoked_cracked_towerwood": {
+    "criteria": {
+      "has_item": "2025-01-12 07:37:52 +0000"
     },
     "done": true
   },
@@ -5694,6 +5741,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-01-12 07:27:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-11-20 20:45:03 +0000"
@@ -5751,6 +5804,12 @@
   "tconstruct:recipes/tconstruct/general/tables/scorched_forge": {
     "criteria": {
       "has_item": "2024-12-06 03:55:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-12 07:27:03 +0000"
     },
     "done": true
   },
@@ -6445,6 +6504,12 @@
   "twilightforest:recipes/twilightforest/firefly_jar": {
     "criteria": {
       "has_item": "2024-12-07 06:36:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-01-12 07:27:03 +0000"
     },
     "done": true
   },
