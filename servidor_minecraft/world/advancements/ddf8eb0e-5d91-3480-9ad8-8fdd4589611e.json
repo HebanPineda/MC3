@@ -1181,6 +1181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-01-12 05:45:19 +0000"
+    },
+    "done": true
+  },
   "biomemakeover:biomemakeover/moth_scales": {
     "criteria": {
       "get_stew": "2024-12-06 07:49:36 +0000"
@@ -3570,6 +3576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-01-12 05:45:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2024-11-20 19:54:17 +0000"
@@ -3821,6 +3833,7 @@
       "minecraft:blaze": "2024-12-11 06:34:16 +0000",
       "minecraft:skeleton": "2024-11-20 21:27:55 +0000",
       "minecraft:ghast": "2024-12-07 04:56:36 +0000",
+      "minecraft:guardian": "2025-01-12 05:31:11 +0000",
       "minecraft:magma_cube": "2024-12-11 06:14:46 +0000",
       "minecraft:spider": "2024-11-20 20:25:12 +0000",
       "minecraft:piglin_brute": "2024-12-11 06:13:11 +0000",
@@ -4325,6 +4338,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-11-20 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-01-12 05:45:19 +0000"
     },
     "done": true
   },
@@ -5198,6 +5217,12 @@
   "twilightforest:recipes/twilightforest/alpha_yeti_banner_pattern": {
     "criteria": {
       "has_trophy": "2024-12-07 07:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-01-12 05:45:19 +0000"
     },
     "done": true
   },

@@ -194,6 +194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-12 05:27:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-11-20 19:17:07 +0000"
@@ -1371,6 +1377,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-20 21:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-01-12 05:36:02 +0000"
     },
     "done": true
   },
@@ -3446,6 +3458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-12 05:27:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-20 21:48:29 +0000"
@@ -4083,6 +4101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-01-12 05:36:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2024-11-20 20:08:02 +0000"
@@ -4352,8 +4376,10 @@
       "minecraft:pillager": "2024-11-30 19:54:23 +0000",
       "minecraft:blaze": "2024-12-11 06:34:27 +0000",
       "minecraft:skeleton": "2024-11-30 17:42:51 +0000",
+      "minecraft:elder_guardian": "2025-01-12 05:29:36 +0000",
       "minecraft:ghast": "2024-12-07 04:57:28 +0000",
       "minecraft:hoglin": "2024-12-07 05:15:08 +0000",
+      "minecraft:guardian": "2025-01-12 05:15:22 +0000",
       "minecraft:vindicator": "2024-11-30 20:02:17 +0000",
       "minecraft:magma_cube": "2024-12-07 04:43:38 +0000",
       "minecraft:spider": "2024-11-30 18:13:34 +0000",
@@ -4953,6 +4979,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-06 06:03:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-01-12 05:36:02 +0000"
     },
     "done": true
   },
@@ -5581,6 +5613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-12 05:27:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-20 21:48:29 +0000"
@@ -5945,6 +5983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-01-12 05:36:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-11-20 19:54:28 +0000"
@@ -6224,6 +6268,12 @@
   "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
       "has_planks": "2024-12-06 23:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-12 05:27:28 +0000"
     },
     "done": true
   },
