@@ -580,3 +580,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jan2025 05:07:19.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xjulxndxx[/100.115.130.57:59018] logged in with entity id 18241 at (-3789.218281700612, -27.99866402088785, 1063.4614076305415)
 [12Jan2025 05:07:19.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx joined the game
 [12Jan2025 05:08:42.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3674.500000, 68.500000, 1077.500000]
+[12Jan2025 05:09:38.845] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 05:14:38.836] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 05:14:51.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3328.500000, 63.500000, 2131.500000]
+[12Jan2025 05:15:54.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3322, y=59, z=2132} BlockPos{x=-3322, y=58, z=2132}
+[12Jan2025 05:16:19.312] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Divideivid with unique ID c943dea7-b358-475a-b470-7e98505b83a3
+[12Jan2025 05:16:19.317] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -3331 Y: 64 Z: 2109
+[12Jan2025 05:16:19.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid was killed by Guardian using magic
+[12Jan2025 05:16:31.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3332.500000, 66.500000, 2101.500000]
+[12Jan2025 05:16:51.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21675, l='ServerLevel[world]', x=-3644.96, y=-256.00, z=1102.56] died, message: 'Villager fell out of the world'
+[12Jan2025 05:18:26.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid was killed by Guardian using magic
+[12Jan2025 05:18:33.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3326.500000, 55.500000, 2163.500000]
