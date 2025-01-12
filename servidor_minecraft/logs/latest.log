@@ -958,3 +958,14 @@ java.util.ConcurrentModificationException: null
 [12Jan2025 06:24:50.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -4918.500000, 45.500000, 1294.500000]
 [12Jan2025 06:29:30.849] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/97101, l='ServerLevel[world]', x=-3644.96, y=-256.00, z=1102.56] died, message: 'Villager fell out of the world'
 [12Jan2025 06:29:38.840] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 06:30:19.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3675.500000, -53.500000, 1168.500000]
+[12Jan2025 06:30:51.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported Divideivid to xjulxndxx]
+[12Jan2025 06:31:35.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3675.500000, -53.500000, 1168.500000]
+[12Jan2025 06:32:16.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3671.500000, 72.500000, 1079.500000]
+[12Jan2025 06:32:33.599] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/98472, l='ServerLevel[world]', x=-3665.83, y=-256.00, z=1099.35] died, message: 'Villager fell out of the world'
+[12Jan2025 06:33:04.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
+[12Jan2025 06:33:21.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3671.500000, 72.500000, 1079.500000]
+[12Jan2025 06:34:38.852] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 06:36:46.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -670.500000, 62.500000, 738.500000]
+[12Jan2025 06:36:46.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2685ms or 53 ticks behind
+[12Jan2025 06:39:41.489] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
