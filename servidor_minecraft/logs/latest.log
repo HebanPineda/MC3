@@ -553,3 +553,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jan2025 04:44:38.852] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
 [12Jan2025 04:45:05.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved wrongly! 0.5093122365901763
 [12Jan2025 04:46:23.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3674.500000, 68.500000, 1077.500000]
+[12Jan2025 04:49:38.835] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 04:49:46.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3587, y=99, z=1074} BlockPos{x=-3588, y=98, z=1073}
+[12Jan2025 04:49:46.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3587, y=99, z=1074} BlockPos{x=-3588, y=98, z=1073}
+[12Jan2025 04:49:46.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3587, y=99, z=1074} BlockPos{x=-3588, y=98, z=1073}
+[12Jan2025 04:49:46.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3587, y=99, z=1074} BlockPos{x=-3588, y=98, z=1073}
+[12Jan2025 04:49:46.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3587, y=99, z=1074} BlockPos{x=-3588, y=98, z=1073}
+[12Jan2025 04:49:46.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3587, y=99, z=1074} BlockPos{x=-3588, y=98, z=1073}
+[12Jan2025 04:49:46.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3587, y=99, z=1074} BlockPos{x=-3588, y=98, z=1073}
+[12Jan2025 04:49:46.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3587, y=99, z=1074} BlockPos{x=-3588, y=98, z=1073}
+[12Jan2025 04:49:46.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3587, y=99, z=1074} BlockPos{x=-3588, y=98, z=1073}
+[12Jan2025 04:49:46.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3587, y=99, z=1074} BlockPos{x=-3588, y=98, z=1073}
+[12Jan2025 04:49:50.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3592, y=94, z=1074} BlockPos{x=-3591, y=95, z=1074}
+[12Jan2025 04:50:10.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3589, y=97, z=1071} BlockPos{x=-3589, y=96, z=1072}
+[12Jan2025 04:54:38.834] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 04:57:39.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Divideivid moved wrongly!
+[12Jan2025 04:59:12.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3773.500000, -26.500000, 1079.500000]
+[12Jan2025 04:59:38.846] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 05:04:38.836] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 05:07:02.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xjulxndxx was kicked for floating too long!
+[12Jan2025 05:07:02.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xjulxndxx lost connection: Flying is not enabled on this server
+[12Jan2025 05:07:02.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx left the game
+[12Jan2025 05:07:02.106] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jan2025 05:07:10.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Divideivid moved too quickly! -4.359882396260218,1.0,9.043706183240374
+[12Jan2025 05:07:19.170] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@334c1a3c
+[12Jan2025 05:07:19.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xjulxndxx[/100.115.130.57:59018] logged in with entity id 18241 at (-3789.218281700612, -27.99866402088785, 1063.4614076305415)
+[12Jan2025 05:07:19.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx joined the game
+[12Jan2025 05:08:42.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3674.500000, 68.500000, 1077.500000]

@@ -2283,6 +2283,8 @@
       "twilight_oak_log": "2024-12-07 06:28:55 +0000",
       "twilight_oak_wood": "2024-12-07 06:30:27 +0000",
       "twilight_oak_sapling": "2024-12-07 06:30:59 +0000",
+      "canopy_log": "2025-01-12 05:01:16 +0000",
+      "twilight_oak_leaves": "2025-01-12 04:47:28 +0000",
       "canopy_sapling": "2024-12-07 06:34:02 +0000"
     },
     "done": false
@@ -3079,6 +3081,12 @@
   "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
     "criteria": {
       "has_redstone": "2024-11-30 18:30:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/canopy_planks": {
+    "criteria": {
+      "has_item": "2025-01-12 05:01:16 +0000"
     },
     "done": true
   },
@@ -4813,6 +4821,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-11-30 18:10:32 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2025-01-12 04:47:28 +0000"
     },
     "done": true
   },
@@ -7286,6 +7300,12 @@
   "gobber2:root": {
     "criteria": {
       "gobber2_globette": "2024-12-12 06:48:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2025-01-12 05:01:16 +0000"
     },
     "done": true
   },
