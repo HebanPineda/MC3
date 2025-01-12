@@ -410,6 +410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-19 07:36:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-07 00:13:55 +0000"
@@ -809,6 +815,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/maze_stone/mossy_mazestone": {
+    "criteria": {
+      "has_item": "2024-12-19 07:34:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-07 00:13:55 +0000"
@@ -890,6 +902,12 @@
   "magnumtorch:recipes/decorations/diamond_magnum_torch": {
     "criteria": {
       "has_diamond": "2024-11-20 21:21:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/maze_stone/smelted_maze_stone_cracked": {
+    "criteria": {
+      "has_item": "2024-12-19 07:34:37 +0000"
     },
     "done": true
   },
@@ -1262,9 +1280,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2024-12-19 07:32:42 +0000",
       "kill_lich": "2024-12-07 07:18:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/twilightforest/compressed_blocks/arctic_block": {
     "criteria": {
@@ -1648,6 +1667,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/maze_map": {
+    "criteria": {
+      "has_item": "2024-12-19 07:32:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2024-12-06 03:47:11 +0000"
@@ -1999,6 +2024,12 @@
       "has_string": "2024-11-30 18:12:21 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2024-12-19 07:32:42 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
@@ -2830,6 +2861,7 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "meef_stroganoff": "2024-12-19 07:32:42 +0000",
       "maze_wafer": "2024-12-07 08:53:38 +0000",
       "cooked_venison": "2024-12-07 07:42:50 +0000"
     },
@@ -3505,6 +3537,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-11-20 21:09:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-19 07:31:37 +0000"
     },
     "done": true
   },
