@@ -534,3 +534,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jan2025 04:22:50.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Divideivid[/100.97.62.57:57551] logged in with entity id 825 at (-3664.9836381343744, 65.0, 1073.5787187682392)
 [12Jan2025 04:22:50.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid joined the game
 [12Jan2025 04:24:36.035] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 04:29:35.988] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 04:31:54.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -4918.500000, 45.500000, 1294.500000]
+[12Jan2025 04:31:54.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2870ms or 57 ticks behind
+[12Jan2025 04:31:54.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Divideivid moved too quickly! -9.67648704801286,-3.1715999686717993,1.3938368387305218
+[12Jan2025 04:34:38.025] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1fd6761f
+[12Jan2025 04:34:38.850] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 04:37:58.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved wrongly! 0.30430900822085144
+[12Jan2025 04:37:58.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved wrongly! 0.2768000898357774
+[12Jan2025 04:38:26.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6066, l='ServerLevel[world]', x=-3644.96, y=-256.00, z=1102.56] died, message: 'Villager fell out of the world'
+[12Jan2025 04:39:31.922] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for xjulxndxx with unique ID 6e9d244d-46ea-4d83-a1b8-10266e20006c
+[12Jan2025 04:39:31.925] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -4911 Y: 44 Z: 1289
+[12Jan2025 04:39:31.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx was slain by Wither Skeleton
+[12Jan2025 04:39:38.840] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 04:39:52.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -4911.500000, 44.500000, 1289.500000]
+[12Jan2025 04:39:58.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx was slain by Wither Skeleton
+[12Jan2025 04:40:03.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -4909.500000, 44.500000, 1290.500000]
+[12Jan2025 04:44:38.852] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 04:45:05.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved wrongly! 0.5093122365901763
+[12Jan2025 04:46:23.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3674.500000, 68.500000, 1077.500000]
