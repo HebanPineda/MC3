@@ -725,6 +725,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_bow": {
+    "criteria": {
+      "gobber2_bow": "2025-01-12 07:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2024-12-04 04:56:55 +0000"
