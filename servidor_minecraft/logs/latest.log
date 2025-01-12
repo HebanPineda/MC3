@@ -969,3 +969,13 @@ java.util.ConcurrentModificationException: null
 [12Jan2025 06:36:46.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -670.500000, 62.500000, 738.500000]
 [12Jan2025 06:36:46.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2685ms or 53 ticks behind
 [12Jan2025 06:39:41.489] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 06:40:51.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Set own game mode to Creative Mode]
+[12Jan2025 06:41:32.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Set own game mode to Survival Mode]
+[12Jan2025 06:43:40.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -461.500000, 94.500000, 136.500000]
+[12Jan2025 06:44:41.489] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 06:49:41.500] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 06:51:26.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/104705, l='ServerLevel[world]', x=-3644.96, y=-256.00, z=1102.56] died, message: 'Villager fell out of the world'
+[12Jan2025 06:52:51.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/105184, l='ServerLevel[world]', x=-3665.75, y=-256.00, z=1099.48] died, message: 'Villager fell out of the world'
+[12Jan2025 06:54:41.486] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
+[12Jan2025 06:56:46.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3674.500000, 68.500000, 1077.500000]
+[12Jan2025 06:59:41.492] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@3c794368
