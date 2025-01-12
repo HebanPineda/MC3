@@ -2186,6 +2186,7 @@
       "tough_handle": "2024-12-06 03:46:26 +0000",
       "tool_binding": "2024-12-07 06:13:52 +0000",
       "pick_head": "2024-12-07 03:21:43 +0000",
+      "gem": "2025-01-12 06:15:33 +0000",
       "hammer_head": "2024-12-06 03:45:56 +0000",
       "broad_blade": "2024-12-07 02:17:08 +0000",
       "tool_handle": "2024-12-07 03:21:49 +0000",
@@ -4080,6 +4081,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-11-30 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-01-12 06:13:00 +0000"
     },
     "done": true
   },
