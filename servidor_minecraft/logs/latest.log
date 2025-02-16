@@ -902,3 +902,7 @@ java.util.ConcurrentModificationException: null
 [16Feb2025 03:11:27.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved wrongly! 0.5066229476078661
 [16Feb2025 03:16:12.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
 [16Feb2025 03:16:14.899] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
+[16Feb2025 03:21:14.904] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
+[16Feb2025 03:24:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid has made the advancement [Mob Chef]
+[16Feb2025 03:26:14.899] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
+[16Feb2025 03:31:14.899] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
