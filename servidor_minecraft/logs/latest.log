@@ -1026,3 +1026,15 @@ java.util.ConcurrentModificationException: null
 [16Feb2025 04:51:14.895] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
 [16Feb2025 04:51:25.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -4920.500000, 44.500000, 1292.500000]
 [16Feb2025 04:51:48.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3670.500000, 63.500000, 1078.500000]
+[16Feb2025 04:53:04.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -4920.500000, 44.500000, 1292.500000]
+[16Feb2025 04:53:16.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3670.500000, 63.500000, 1078.500000]
+[16Feb2025 04:54:06.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -4920.500000, 44.500000, 1292.500000]
+[16Feb2025 04:54:20.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3670.500000, 63.500000, 1078.500000]
+[16Feb2025 04:56:14.900] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
+[16Feb2025 04:58:48.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -4920.500000, 44.500000, 1292.500000]
+[16Feb2025 04:59:04.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[16Feb2025 04:59:29.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to -3670.500000, 63.500000, 1078.500000]
+[16Feb2025 04:59:57.190] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@8951d94
+[16Feb2025 05:00:09.913] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/187174, l='ServerLevel[world]', x=-3644.96, y=-256.00, z=1102.56] died, message: 'Villager fell out of the world'
+[16Feb2025 05:00:35.264] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/187281, l='ServerLevel[world]', x=-3688.41, y=-256.00, z=1102.00] died, message: 'Villager fell out of the world'
+[16Feb2025 05:01:14.912] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
