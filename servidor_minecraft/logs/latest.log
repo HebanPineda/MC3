@@ -537,3 +537,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Feb2025 02:13:26.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid joined the game
 [16Feb2025 02:14:22.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
 [16Feb2025 02:16:14.972] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
+[16Feb2025 02:21:14.913] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
+[16Feb2025 02:26:14.911] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
+[16Feb2025 02:27:39.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx has made the advancement [A Better Pickaxe]
+[16Feb2025 02:31:14.902] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
+[16Feb2025 02:36:14.897] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
+[16Feb2025 02:40:21.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Set own game mode to Survival Mode]
