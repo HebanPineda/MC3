@@ -906,3 +906,10 @@ java.util.ConcurrentModificationException: null
 [16Feb2025 03:24:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid has made the advancement [Mob Chef]
 [16Feb2025 03:26:14.899] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
 [16Feb2025 03:31:14.899] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
+[16Feb2025 03:34:48.913] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106588, l='ServerLevel[world]', x=-3644.96, y=-256.00, z=1102.56] died, message: 'Villager fell out of the world'
+[16Feb2025 03:36:14.904] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
+[16Feb2025 03:40:58.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -4.546271495278688,0.9548955978852547,9.690880895243708
+[16Feb2025 03:40:58.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -5.009507284963092,1.0355000915536294,10.67861099318884
+[16Feb2025 03:40:58.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved too quickly! -5.475202774784975,1.1197719819359122,11.671621615514823
+[16Feb2025 03:41:14.962] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@c72368b
+[16Feb2025 03:41:25.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
