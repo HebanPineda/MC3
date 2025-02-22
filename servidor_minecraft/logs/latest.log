@@ -576,3 +576,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Feb2025 02:37:04.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of xjulxndxx) moved wrongly! 0.5834449343556116
 [22Feb2025 02:38:15.454] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@5bfdd196
 [22Feb2025 02:41:51.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[22Feb2025 02:47:18.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[22Feb2025 02:49:42.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[22Feb2025 02:52:08.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
