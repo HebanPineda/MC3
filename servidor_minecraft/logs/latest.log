@@ -589,3 +589,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Feb2025 03:17:15.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Divideivid moved wrongly!
 [22Feb2025 03:17:58.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
 [22Feb2025 03:22:27.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[22Feb2025 03:27:00.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported xjulxndxx to Divideivid]
+[22Feb2025 03:28:56.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[22Feb2025 03:29:09.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
+[22Feb2025 03:29:36.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12627, l='ServerLevel[world]', x=-3666.36, y=-256.00, z=1099.43] died, message: 'Villager fell out of the world'
+[22Feb2025 03:30:51.064] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for xjulxndxx with unique ID a6fbab54-8468-4cd2-b68f-ed0297f52101
+[22Feb2025 03:30:51.071] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -3779 Y: 150 Z: 1289
+[22Feb2025 03:30:51.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx was slain by Carminite Golem
+[22Feb2025 03:30:59.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid has made the advancement [Mystery Meat?]
+[22Feb2025 03:31:07.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[22Feb2025 03:32:23.811] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for xjulxndxx with unique ID 52adeb82-3e04-4dcc-a064-b8f1616ef465
+[22Feb2025 03:32:23.814] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -3775 Y: 150 Z: 1292
+[22Feb2025 03:32:23.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx was slain by Carminite Golem
