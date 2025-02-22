@@ -586,3 +586,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Feb2025 03:00:53.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
 [22Feb2025 03:05:47.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
 [22Feb2025 03:06:57.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported xjulxndxx to Divideivid]
+[22Feb2025 03:17:15.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Divideivid moved wrongly!
+[22Feb2025 03:17:58.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[22Feb2025 03:22:27.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
