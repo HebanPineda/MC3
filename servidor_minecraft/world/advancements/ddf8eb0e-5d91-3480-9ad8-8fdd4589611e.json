@@ -1019,6 +1019,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/darkwood_wood": {
+    "criteria": {
+      "has_item": "2025-02-22 02:59:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2024-11-20 19:54:17 +0000"
@@ -1722,6 +1728,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/darkwood_planks": {
+    "criteria": {
+      "has_item": "2025-02-22 02:59:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-11-20 19:50:07 +0000"
@@ -1984,6 +1996,7 @@
     "criteria": {
       "twilight_oak_planks": "2024-12-19 07:10:46 +0000",
       "twilight_oak_log": "2024-12-07 06:56:28 +0000",
+      "dark_log": "2025-02-22 02:59:32 +0000",
       "twilight_oak_sapling": "2024-12-07 06:48:38 +0000",
       "canopy_log": "2024-12-07 06:27:20 +0000",
       "towerwood": "2025-02-22 02:47:49 +0000",

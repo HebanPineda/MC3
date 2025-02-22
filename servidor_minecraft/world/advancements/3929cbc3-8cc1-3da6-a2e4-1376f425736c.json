@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-02-22 03:01:55 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/light_blue_sleeping_bag": {
     "criteria": {
       "has_light_blue_wool": "2024-12-07 07:53:32 +0000"
@@ -705,6 +711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-02-22 03:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-11-20 21:49:53 +0000"
@@ -1062,6 +1074,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/red_cushion": {
+    "criteria": {
+      "has_cushion": "2025-02-22 03:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-30 20:50:17 +0000"
@@ -1275,6 +1293,12 @@
   "twilightforest:recipes/twilightforest/equipment/fiery_fiery_boots": {
     "criteria": {
       "has_item": "2025-01-12 07:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-02-22 03:01:55 +0000"
     },
     "done": true
   },
@@ -2757,6 +2781,12 @@
   "tconstruct:world/sky_island": {
     "criteria": {
       "found_island": "2024-12-07 03:12:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet": {
+    "criteria": {
+      "has_sheet": "2025-02-22 03:01:55 +0000"
     },
     "done": true
   },
@@ -7184,6 +7214,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-07 07:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-02-22 03:01:55 +0000"
     },
     "done": true
   },
