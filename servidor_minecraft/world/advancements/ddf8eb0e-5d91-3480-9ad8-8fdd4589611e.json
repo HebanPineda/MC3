@@ -1932,6 +1932,12 @@
     },
     "done": true
   },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2025-02-22 03:46:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-11-20 19:54:17 +0000"
@@ -2904,6 +2910,7 @@
       "meef_stroganoff": "2024-12-19 07:32:42 +0000",
       "maze_wafer": "2024-12-07 08:53:38 +0000",
       "hydra_chop": "2025-01-12 07:27:18 +0000",
+      "experiment_115": "2025-02-22 03:46:00 +0000",
       "cooked_venison": "2024-12-07 07:42:50 +0000"
     },
     "done": false

@@ -601,3 +601,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Feb2025 03:32:23.811] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for xjulxndxx with unique ID 52adeb82-3e04-4dcc-a064-b8f1616ef465
 [22Feb2025 03:32:23.814] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -3775 Y: 150 Z: 1292
 [22Feb2025 03:32:23.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx was slain by Carminite Golem
+[22Feb2025 03:32:52.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[22Feb2025 03:32:57.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to -3775.500000, 150.500000, 1292.500000]
+[22Feb2025 03:33:15.435] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@5bfdd196
+[22Feb2025 03:34:42.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported xjulxndxx to Divideivid]
+[22Feb2025 03:39:32.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Divideivid) moved wrongly! 0.5171738748822463
+[22Feb2025 03:40:51.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[22Feb2025 03:41:22.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Divideivid was kicked for floating too long!
+[22Feb2025 03:41:22.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Divideivid lost connection: Disconnected
+[22Feb2025 03:41:22.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid left the game
+[22Feb2025 03:41:22.708] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Feb2025 03:41:37.479] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@16673fab
+[22Feb2025 03:41:37.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Divideivid[/100.97.62.57:60908] logged in with entity id 15123 at (-3792.147387815147, 41.90496928818796, 1272.3492869257857)
+[22Feb2025 03:41:37.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid joined the game
+[22Feb2025 03:41:38.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Divideivid lost connection: Disconnected
+[22Feb2025 03:41:38.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid left the game
+[22Feb2025 03:41:47.923] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4597703c
+[22Feb2025 03:41:47.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Divideivid[/100.97.62.57:60914] logged in with entity id 15205 at (-3792.147387815147, 41.90496928818796, 1272.3492869257857)
+[22Feb2025 03:41:47.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid joined the game
+[22Feb2025 03:41:48.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Divideivid lost connection: Disconnected
+[22Feb2025 03:41:48.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid left the game
+[22Feb2025 03:42:09.621] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69a10f08
+[22Feb2025 03:42:09.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Divideivid[/100.97.62.57:60942] logged in with entity id 15256 at (-3792.147387815147, 41.90496928818796, 1272.3492869257857)
+[22Feb2025 03:42:09.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid joined the game
+[22Feb2025 03:42:50.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Divideivid: Teleported Divideivid to xjulxndxx]
+[22Feb2025 03:44:06.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[22Feb2025 03:44:58.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xjulxndxx: Teleported xjulxndxx to Divideivid]
+[22Feb2025 03:46:00.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx has made the advancement [Mystery Meat?]
+[22Feb2025 03:47:10.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xjulxndxx lost connection: Disconnected
+[22Feb2025 03:47:10.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xjulxndxx left the game
+[22Feb2025 03:47:12.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Divideivid lost connection: Disconnected
+[22Feb2025 03:47:12.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Divideivid left the game
